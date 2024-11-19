@@ -1,4 +1,4 @@
-# Warning: this project as been deprecated
+## Warning: this project has been deprecated
 
 Consider using one of the several three.js component libraries available for Svelte
 (e.g. [Threlte](https://threlte.xyz/)).
